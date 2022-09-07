@@ -1,1 +1,2 @@
 # Clothings-Store-Project-DataBase
+Final team project of DataBase, create a clothing store database system to track their shipments and keep information about their customers, employees, items and orders of the company. Create a introduction of the problem and how to solute it, an ERM diagram, the tables needed, insert the information in each table and the select statements with the information that is goign to help the owner of the store.
